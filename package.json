@@ -11,7 +11,7 @@
     "firebase": "^5.8.2",
     "materialize-css": "^1.0.0-rc.2",
     "register-service-worker": "^1.5.2",
-    "terser": "^3.14.1",
+    "terser": "^4.8.1",
     "vue": "^2.5.22",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
